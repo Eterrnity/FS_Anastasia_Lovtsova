@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="row">
+                <div class="calculator">
+                    <form action="">
+                        <input type="number" id="num1" class="calculator__input-box">
+                        <input type="number" id="num2" class="calculator__input-box">
+                    </form>
+                    <p class="operations">
+                        <button onclick="plus()">+</button>
+                        <button onclick="minus()">-</button>
+                        <button onclick="multiplication()">*</button>
+                        <button onclick="division()">/</button>
+                    </p>
+                    <p class="operations">
+                        <button onclick="exponentiation()">^</button>
+                        <button onclick="squareRoot()">√</button>
+                        <button onclick="removal()">C</button>
+                        <button onclick="cancellation()"><-</button>
+                    </p>
+                    <p id="output"></p>
+                    <p id="operations-history"></p>
+                </div>
+            </div>
+        </div>
+    </header>
+</body>
+</html>

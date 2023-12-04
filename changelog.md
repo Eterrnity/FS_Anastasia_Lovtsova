@@ -1,0 +1,19 @@
+###Процесс выполнения заданий
+| *Дата* | *Название* | *Описание* | *Ссылка на MR* |
+|:---|:---|:---|:---|
+| 08.08.2021 | Git | Создан свой репозиторий и новая ветка task-1 в нём; создан и файл readme и заполнен информацией о себе; создан файл changelog и заполнен информацией о первых внесённых изменениях | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/1 |
+| 12.08.2021 | HTML-CSS Basics | Выполнена вёрстка макета с Figma | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/2 |
+| 14.08.2021 | HTML-CSS Advanced | Изменена структура вёрстки с использованием возможностей HTML5 и CSS3 | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/3 |
+| 16.08.2021 | JavaScript Overview | Выполнено 7 заданий на языке JavaScript в отдельных папках | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/4 |
+| 28.08.2021 | JavaScript Functions | Реализовано браузерное приложение "Калькулятор" | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/5 |
+| 01.09.2021 | OOP in JavaScript | Создано 4 связанных класса | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/6 |
+| 06.09.2021 | JavaScript and Browser | Создана форма обратной связи с валидацией значений; создана проекция в localStorage; реализована проверка отправленных данных с помощью cookies | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/7 |
+| 11.09.2021 | JavaScript and DOM | Создана таблица с обновлением данных без перезагрузки страницы | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/8 |
+| 18.09.2021 | Algorithms | Реализованы стек, двусвязный список и алгоритм быстрой сортировки массива целых чисел | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/9 |
+| 19.09.2021 | Frontend Application Infrastructure | JS файлы из 4 задания объединены в один файл с помощью Gulp; каждый из этих JS файлов превращен в модуль; все модули собраны в один bundle с помощью Webpack | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/10 |
+| 23.09.2021 | TypeScript | JS файл из 5 задания переработан в TS файл; реализованы фабрика для создания объектов с использованием generics и декоратор к ней | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/11 |
+| 28.09.2021 | JS и сеть, Promise, Observable, RxJS | Написано приложение "Прогноз погоды"; проведена работа с Observable и Observer | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/12 |
+| 01.10.2021 | Angular basics | Создано angular-приложение по поиску домашних животных | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/13 |
+| 15.10.2021 | Angular modules, components and LESS | Создан модуль для работы с животными; список животных и подробная информация вынесены в отдельные компоненты; подключен и использован LESS | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/14 |
+| 25.10.2021 | Angular forms, routing, http | Созданы формы с использованием Template Driven и Reactive Forms; предусмотрено добавление элементов в список и удаление из него; реализованы маршрутизация и http-запросы с использованием json-server | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/15 |
+| 29.10.2021 | Основы React | Создано react-приложение по поиску домашних животных | https://gitlab.com/nc-samara-frontend-school/2021/development/fs_anastasia_lovtsova/-/merge_requests/16 |
